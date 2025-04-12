@@ -33,8 +33,9 @@ A simple Node.js app that updates your Discord Rich Presence to show a custom "s
 
 ## 📦 How to run the program?
 ## 1. Run using nodejs terminal
-2. ```bash
+```bash
    node sleepingbot.js
+```
 
 ## 2. Run the batch file
    ```bash
