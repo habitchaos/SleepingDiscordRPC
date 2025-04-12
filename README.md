@@ -43,8 +43,8 @@ A simple Node.js app that updates your Discord Rich Presence to show a custom "s
 
 ## 🖼️ Screenshots
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="./img/cmd.png" width="300" style="margin-right: 20px;">
+<div style="margin-bottom: 20px;">
+  <img src="./img/cmd.png" width="300" style="display: block; margin-bottom: 10px;">
   <div>
     <h3>✅ CMD Output</h3>
     <p>Shows the bot running successfully</p>
