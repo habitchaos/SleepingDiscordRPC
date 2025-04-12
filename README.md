@@ -43,22 +43,29 @@ A simple Node.js app that updates your Discord Rich Presence to show a custom "s
 
 ## 🖼️ Screenshots
 
-### ✅ CMD Output
-Shows the bot running successfully:
-![CMD Output](./img/cmd.png)
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="./img/cmd.png" width="300" style="margin-right: 20px;">
+  <div>
+    <h3>✅ CMD Output</h3>
+    <p>Shows the bot running successfully</p>
+  </div>
+</div>
 
----
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="./img/on%20vc.png" width="300" style="margin-right: 20px;">
+  <div>
+    <h3>🎧 Discord VC Status</h3>
+    <p>Shows how it looks when you're in a voice chat</p>
+  </div>
+</div>
 
-### 🎧 Discord VC Status
-Shows how it looks when you're in a voice chat:
-![On VC](./img/on%20vc.png)
-
----
-
-### 💤 Discord Profile Status
-This is how your status looks on your Discord profile:
-![Profile View](./img/profile.png)
-
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="./img/profile.png" width="300" style="margin-right: 20px;">
+  <div>
+    <h3>💤 Discord Profile Status</h3>
+    <p>This is how your status looks on your Discord profile</p>
+  </div>
+</div>
 
 ## 📄 License
 MIT License. See the LICENSE file for more information.
